@@ -8,7 +8,7 @@ Powered by NANO
 - Crawls web pages and lists all discovered links
 - Supports custom payload files
 - Saves results to a file
-- Fast payload testing with threading (in latest version)
+- Fast payload testing with threading
 - Simple CLI interface
 
 ---

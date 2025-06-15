@@ -1,6 +1,6 @@
 **NXO - XSS Scanner 🚨**
 
-Powered by NANO
+Powered by NANO & DR.FARFAR
 
 **Features**
 
